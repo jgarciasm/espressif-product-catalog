@@ -156,7 +156,6 @@ public class ProductTableViewer {
 		
 		searchTextBox.addListener(SWT.KeyUp, new Listener() {
 			public void handleEvent(Event e) {
-				System.out.println(searchTextBox.getText());
 				searchProducts(searchTextBox.getText());
 			}
 		});

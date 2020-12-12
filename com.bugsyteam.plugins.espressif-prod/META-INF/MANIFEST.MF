@@ -15,5 +15,4 @@ Bundle-Activator: com.bugsyteam.plugins.espressifprod.utils.FormArticlePlugin
 Bundle-ClassPath: lib/jackson-databind-2.11.1.jar,
  lib/jackson-annotations-2.11.1.jar,
  lib/jackson-core-2.11.1.jar,
- .jar,
- data/
+ .jar

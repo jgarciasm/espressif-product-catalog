@@ -12,5 +12,4 @@ Automatic-Module-Name: com.bugsyteam.plugins.espressif.prods
 Bundle-ClassPath: lib/jackson-annotations-2.11.1.jar,
  lib/jackson-core-2.11.1.jar,
  lib/jackson-databind-2.11.1.jar,
- .,
- data/
+ .

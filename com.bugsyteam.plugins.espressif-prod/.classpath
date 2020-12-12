@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="data/"/>
 	<classpathentry exported="true" kind="lib" path="lib/jackson-annotations-2.11.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jackson-core-2.11.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jackson-databind-2.11.1.jar"/>
