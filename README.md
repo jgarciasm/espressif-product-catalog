@@ -59,7 +59,7 @@ The project contains:
 
 ## _Authors_ ✒️
 
-* **Jonad García San Martín** - *Development and Documentation* - [jgarciasm89](jgarciasm89@gmail.com)
+* **Jonad García San Martín** - *Development and Documentation* - jgarciasm89@gmail.com
 
 
 ---
