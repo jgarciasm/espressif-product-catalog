@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Espressif Product Catalog
+Bundle-SymbolicName: com.bugsyteam.plugins.espressif-prods;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: BUGSYTEAM
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.ui
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Import-Package: javax.inject
+Automatic-Module-Name: com.bugsyteam.plugins.espressif.prods
+Bundle-ClassPath: lib/jackson-annotations-2.11.1.jar,
+ lib/jackson-core-2.11.1.jar,
+ lib/jackson-databind-2.11.1.jar,
+ .,
+ data/
