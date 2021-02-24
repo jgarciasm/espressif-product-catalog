@@ -5,7 +5,7 @@ Eclipse plugins that provides the following functionalities:
 - Searching for and view all Espressif product catalog.
 
 ## Additional functionalities:
-- Validation of empty input data
+- Validation of empty input data.
 - Validation of existing products.
 - Complete text search in real time while typing.
 - Sort by every column.
