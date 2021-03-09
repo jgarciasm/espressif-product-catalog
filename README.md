@@ -1,7 +1,7 @@
 # Espressif Product Catalog
 
 Eclipse plugins that provides the following functionalities:
-- Saving Espressif products to a catalog (JSON file).
+- Saving Espressif products to a catalog (JSON file). 
 - Searching for and view all Espressif product catalog.
 
 ## Additional functionalities:
